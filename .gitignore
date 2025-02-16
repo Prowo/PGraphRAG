@@ -1,6 +1,5 @@
 *.pkl
 data_norank/
-data_rank
 .ipynb_checkpoints/
 bfg-1.14.0.jar
 metric/
